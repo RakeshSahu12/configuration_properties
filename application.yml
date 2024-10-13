@@ -1,7 +1,1 @@
-spring:
-  application:
-    name: Welcome
-  config:
-    import: optional:configserver:http://localhost:9093  
-server:
-  port: 8087
+
